@@ -10,8 +10,8 @@
 ## 📸 Demo / Screenshots
 
 <p align="center">
-  <img src="docs/DevSpace.png" alt="Devspace GIF" width="700">
-  <img src="docs/DevSpace2.png" alt="Devspace GIF" width="700">
+  <img src="docs/DevSpace.png" alt="Devspace png" width="700">
+  <img src="docs/DevSpace2.png" alt="Devspace2 png" width="700">
 </p>
 
 ---
