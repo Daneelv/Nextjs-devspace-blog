@@ -1,6 +1,6 @@
 # 🚀 DevSpace
 
-> This is a developers blog website built with NextJS.
+> This is a developers blog website built with Next.js.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-repo%20only-active.svg)]()
