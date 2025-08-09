@@ -18,8 +18,7 @@
 
 ## 📜 About
 
-This was one of my first Next.js projects, this project was exclusively
-used to explore what NextJS is about, and exploring the file based routing.
+This was one of my initial Next.js projects, created to explore the framework’s core concepts and to experiment with file-based routing
 
 ---
 
