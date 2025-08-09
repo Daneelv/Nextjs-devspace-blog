@@ -55,7 +55,7 @@ used to explore what NextJS is about, and exploring the file based routing.
 
 ```bash
 # Clone the repo
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/Daneelv/Nextjs-devspace-blog.git
 
 # Install dependencies
 npm install
