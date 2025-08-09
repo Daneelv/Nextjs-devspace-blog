@@ -16,19 +16,9 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [About](#About)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-
----
-
 ## 📜 About
 
-This was one of my first NextJS projects, this project was exclusively
+This was one of my first Next.js projects, this project was exclusively
 used to explore what NextJS is about, and exploring the file based routing.
 
 ---
