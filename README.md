@@ -18,13 +18,11 @@
 
 ## 📖 Table of Contents
 
-- [About](#about)
+- [About](#About)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
